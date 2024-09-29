@@ -50,7 +50,7 @@ The final model achieved an accuracy of **99%** on the test set, demonstrating i
 ```
 ## 🔧 Installation and Setup
 1. Clone this repository:
-   git clone https://github.com/Manojsiva7272/Email-Spam-Detection-NLP.git
+   github clone [https://github.com/Manojsiva7272/Email-Spam-Detection-NLP.git](https://github.com/Manojsiva7272/Email-Spam-Detection-Using-NLP-main/tree/main)
 
 2. Navigate to the project directory:
    cd Email-Spam-Detection-NLP
